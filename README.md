@@ -12,14 +12,11 @@ AI-driven cybersecurity, privacy-preserving machine learning, digital identity s
   <a href="mailto:m.ahmadnawazz@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://www.linkedin.com/in/m-ahmad-nawaz-524974112/?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/m-ahmad-nawaz-524974112/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github.com/AhmadNawaz110/?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">
+  <a href="https://github.com/AhmadNawaz110/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -121,4 +118,47 @@ Computing and Data Science, MMU Press (2024) · Book Chapter — Published
 **Dynamic Privacy-Preserving Data Publishing Framework for Big E-Health Informatics**  
 Information Processing & Management, Elsevier · Journal — Under Review
 
-**Next-Generation AI-Powered Intrusion Detection System Using Deep Learning and Explain
+**Next-Generation AI-Powered Intrusion Detection System Using Deep Learning and Explainable AI**  
+International Conference on AI & Cybersecurity (AISEC 2026) · Conference — Accepted
+
+**Privacy-Preserving Federated Anomaly Detection for National Identity Infrastructure**  
+Target: IEEE Transactions on Information Forensics and Security · In Preparation
+
+**Adversarial Robustness Benchmarking for Explainable AI-Driven IDS**  
+Target: Computers & Security, Elsevier · In Preparation
+
+---
+
+## Awards & Academic Service
+
+- **Consultancy (2024–2026):** Served as an expert consultant for national-level programs with NADRA and CTD KP Police.
+- **Faculty Advisor:** Mentored 40+ undergraduate students across GIKI and Riphah in research ideation, project execution, and academic development.
+- **Prime Minister’s National ICT Scholarship (2013–2017):** Fully funded scholarship awarded to top 500 students by the Government of Pakistan.
+
+---
+
+## Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CEH_v13-EC--Council-FF0000?style=flat-square" alt="CEH v13">
+  <img src="https://img.shields.io/badge/Azure_Data_Scientist-DP--100-0078D4?style=flat-square" alt="Azure Data Scientist Associate">
+  <img src="https://img.shields.io/badge/IBM_Cybersecurity_Analyst-IBM-054ADA?style=flat-square" alt="IBM Cybersecurity Analyst">
+  <img src="https://img.shields.io/badge/Web_App_Security_Testing-Burp_Suite-FF6633?style=flat-square" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Wireshark_Network_Analysis-Wireshark-1679A7?style=flat-square" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Docker_and_DevOps-Docker-2496ED?style=flat-square" alt="Docker and DevOps">
+</p>
+
+---
+
+## GitHub
+
+<p align="center">
+  <a href="https://github.com/AhmadNawaz110?tab=followers">
+    <img src="https://img.shields.io/github/followers/AhmadNawaz110?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=1A1A1A&labelColor=0B0A0D" alt="GitHub Followers">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AhmadNawaz110&style=for-the-badge&label=Profile+Views&color=C9A24B" alt="Profile Views">
+</p>
+
+<p align="center">
+  <sub>Based in Islamabad, Pakistan &nbsp;·&nbsp; Open to research collaboration, consultancy, and speaking</sub>
+</p>
