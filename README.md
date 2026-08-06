@@ -5,6 +5,13 @@
 </p>
 
 <p align="center">
+  <a href="mailto:m.ahmadnawazz@gmail.com">m.ahmadnawazz@gmail.com</a> &nbsp;|&nbsp; 
+  <a href="https://www.linkedin.com/in/m-ahmad-nawaz-524974112/">LinkedIn</a> &nbsp;|&nbsp; 
+  <a href="https://github.com/AhmadNawaz110/">GitHub</a> &nbsp;|&nbsp; 
+  <a href="https://scholar.google.com/">Google Scholar</a>
+</p>
+
+<p align="center">
 AI-driven cybersecurity, privacy-preserving machine learning, digital identity security, explainable AI, and blockchain.
 </p>
 
